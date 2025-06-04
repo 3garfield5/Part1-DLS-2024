@@ -7,3 +7,6 @@
 
 ## Homework 2
 Решение конкурса на kaggle.com (kaggle)
+
+## Homework 3
+Основы машинного обучения
